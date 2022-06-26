@@ -1,0 +1,13 @@
+
+
+.upper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.circle {
+    margin-left: 50vw;
+    margin-top: 5vw;
+    position: fixed;
+}

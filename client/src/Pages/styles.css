@@ -1,0 +1,63 @@
+
+.button {
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    background-color: rgb(212, 212, 212);
+    width: 260px;
+    height: 90px;
+}
+.button:hover{
+    filter: opacity(0.5);
+ }
+
+
+ .Title{
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 5px;
+    color: white;
+ }
+
+ .Desc{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: white;
+ }
+
+ .back{
+    margin-top: 0px;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../public/pins.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+ }
+
+
+ .button2 {
+    margin-left: 41vw;
+    margin-top: 50px;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    font-size: 50px;
+    border-radius: 5px;
+    background-color: rgb(1, 39, 255);
+    width: 240px;
+    height: 120px;
+ }
+
+ .button2:hover {
+    opacity: 0.5;
+ }
+
+ .div {
+   background-image: url("../../public/back.svg");
+ }
